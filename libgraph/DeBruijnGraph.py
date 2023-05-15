@@ -1,7 +1,7 @@
-from basic_graph import *
+from libgraph.basic_graph import *
 import pickle, os
 from copy import deepcopy
-from compact_graph import *
+from libgraph.compact_graph import *
 import pdb
 
 class DeBruijnGraph(Graph):

@@ -1,4 +1,4 @@
-from basic_graph import *
+from libgraph.basic_graph import *
 from math import ceil
 
 class CompactGraph:
